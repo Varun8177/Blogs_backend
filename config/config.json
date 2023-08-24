@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "varun",
+    "password": "varun1234",
     "database": "blogs",
     "host": "database.cslbzjrsifg0.eu-north-1.rds.amazonaws.com",
     "dialect": "mysql"
